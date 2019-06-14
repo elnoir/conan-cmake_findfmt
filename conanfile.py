@@ -3,7 +3,7 @@ from conans import ConanFile, CMake, tools
 
 class CmakeFindFmt(ConanFile):
     name = "cmake_findfmt"
-    version = "1.0"
+    version = "5.3.0"
     license = "MIT"
     author = "Ede Bittner bittner.ede@gmail.com"
     url = "https://github.com/elnoir/conan-cmake_findfmt"
